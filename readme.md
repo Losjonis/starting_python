@@ -37,5 +37,6 @@ This script showcases creativity, structure, and user experience beyond basic co
 ---
 
 ## 👨‍💻 Author & Credits
-Developed by **Marcos Cara Barceló**  
-Special thanks and credit to **Sergio Luis González Ruiz** for his collaboration and support.
+Developed by **Jonis**  
+Special thanks and credit to **Sergio Luis González Ruiz** and **@AranHB06** for his collaboration and support.
+
